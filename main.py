@@ -5,4 +5,6 @@ class Person:
     self.name = name
     self.height = height
 
+class Cat
 me = Person("Andrey", 170)
+friend = Person("Igor", 168)
