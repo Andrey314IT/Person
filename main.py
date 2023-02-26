@@ -1,3 +1,4 @@
+print("Hello world")
 class Person:
   height = 170
   name = "Name"
